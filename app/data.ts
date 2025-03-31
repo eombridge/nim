@@ -29,7 +29,7 @@ type SocialLink = {
 
 export const PROJECTS: Project[] = [
   {
-    name: 'Motion Primitives Pro',
+    name: '어쩌구 프로젝트',
     description:
       'Advanced components and templates to craft beautiful websites.',
     link: 'https://pro.motion-primitives.com/',
@@ -38,7 +38,7 @@ export const PROJECTS: Project[] = [
     id: 'project1',
   },
   {
-    name: 'Motion Primitives',
+    name: '저쩌구 프로젝트트',
     description: 'UI kit to make beautiful, animated interfaces.',
     link: 'https://motion-primitives.com/',
     video:
@@ -49,9 +49,9 @@ export const PROJECTS: Project[] = [
 
 export const WORK_EXPERIENCE: WorkExperience[] = [
   {
-    company: 'Reglazed Studio',
-    title: 'CEO',
-    start: '2024',
+    company: '어쩌구',
+    title: '짱',
+    start: '2025',
     end: 'Present',
     link: 'https://ibelick.com',
     id: 'work1',
@@ -66,17 +66,17 @@ export const WORK_EXPERIENCE: WorkExperience[] = [
   },
   {
     company: 'Freelance',
-    title: 'Front-end Developer',
-    start: '2017',
+    title: 'Full Stack Developer',
+    start: '2022',
     end: 'Present',
-    link: 'https://ibelick.com',
+    link: 'https://github.com/eombridge',
     id: 'work3',
   },
 ]
 
 export const BLOG_POSTS: BlogPost[] = [
   {
-    title: 'Exploring the Intersection of Design, AI, and Design Engineering',
+    title: '대충 블로그 제목',
     description: 'How AI is changing the way we design',
     link: '/blog/exploring-the-intersection-of-design-ai-and-design-engineering',
     uid: 'blog-1',
@@ -100,20 +100,20 @@ export const BLOG_POSTS: BlogPost[] = [
 export const SOCIAL_LINKS: SocialLink[] = [
   {
     label: 'Github',
-    link: 'https://github.com/ibelick',
+    link: 'https://github.com/eombridge',
   },
   {
     label: 'Twitter',
-    link: 'https://twitter.com/ibelick',
+    link: 'https://twitter.com/eombridge',
   },
   {
     label: 'LinkedIn',
-    link: 'https://www.linkedin.com/in/ibelick',
+    link: 'https://www.linkedin.com/in/eombridge',
   },
   {
     label: 'Instagram',
-    link: 'https://www.instagram.com/ibelick',
+    link: 'https://www.instagram.com/eombridge',
   },
 ]
 
-export const EMAIL = 'your@email.com'
+export const EMAIL = 'eombridge@gmail.com'
